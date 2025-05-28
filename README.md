@@ -1,5 +1,6 @@
 # gold-20250628
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0dd359cc-97a2-4520-9cf5-f34ec1362d20)
+
 
 ### วิเคราะห์ GOLD Multi-Timeframe (M15, H1, H4, Daily)
 
