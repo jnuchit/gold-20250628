@@ -1,4 +1,10 @@
 # gold-20250628
+
+Promt
+
+Buy?
+Sell?
+
 ![image](https://github.com/user-attachments/assets/0dd359cc-97a2-4520-9cf5-f34ec1362d20)
 
 
